@@ -57,7 +57,7 @@ This dashboard answers all the key business questions as outlined in the case:
 
 ## 📸 Dashboard Preview
 
-![Ferns and Petals Dashboard](dashboard_image.jpg)  
+![Ferns and Petals Dashboard](https://github.com/Tushark6038/FNP-Excel-Dashboard-Project/blob/271def71d1c5dc55c0a376f284517afad045ba57/Screenshot%202025-06-09%20221233.png) 
 *This is a screenshot of the dashboard. Please open the Excel file for full interactivity.*
 
 ---
